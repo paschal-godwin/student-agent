@@ -1,0 +1,49 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite
+*.log
+
+# ---- Virtual environments ----
+.env
+.venv/
+venv/
+ENV/
+
+# ---- Secrets ----
+*.env
+.env.*
+apikeys.json
+
+# ---- Vectorstores / indexes ----
+*.faiss
+*.npy
+*.pkl
+chroma/
+chromadb/
+index/
+indexes/
+data/
+books/
+
+# ---- Streamlit cache ----
+.streamlit/
+.cache/
+**/.streamlit/
+
+# ---- Jupyter / notebooks ----
+.ipynb_checkpoints/
+*.ipynb
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE/editor configs ----
+.vscode/
+.idea/
+*.swp
