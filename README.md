@@ -17,9 +17,8 @@ An AI-powered study assistant that helps students summarize textbooks, generate 
 🚀 Demo
 
 👉 Live Demo on Hugging Face Spaces
- (replace with your link once deployed)
-👉 Project Walkthrough Video
- (optional: add YouTube/Twitter link)
+ 
+
 
 📂 Project Structure
 student-agent/
